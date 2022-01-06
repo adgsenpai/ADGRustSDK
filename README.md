@@ -1,4 +1,6 @@
+
 # ADGSDKRUST
+![RustImageLinux](https://www.seekpng.com/png/small/872-8722540_images-rust-love-tux-rust-language-logo.png)
 
 ## Usage
 Creating cool web apps with this framework.
