@@ -1,11 +1,13 @@
 
 # ADGSDKRUST
-![RustImageLinux](https://www.seekpng.com/png/small/872-8722540_images-rust-love-tux-rust-language-logo.png)
+![images/rust Love Tux - Rust Language Logo PNG Image | Transparent PNG Free  Download on SeekPNG](https://www.seekpng.com/png/small/872-8722540_images-rust-love-tux-rust-language-logo.png)
 
 ## Usage
 Creating cool web apps with this framework.
 
-## Dockerfile
+## Creating Docker Image and running it
+
+<img  src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"  width="100">
 
 ### Building `RustApp`
 
